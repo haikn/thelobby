@@ -1,0 +1,53 @@
+@CHARSET "US-ASCII";
+.dashboard {
+		background-repeat:no-repeat;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size:cover;
+		background-position:center;
+}
+
+.container {
+	width: 600px !important;
+	max-width: 100% !important;
+	margin-top: 50px !important;
+}
+
+.btn-install {
+    padding: 10px 30px 10px 30px;
+    width: 100%;
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.btn-install:hover, .btn-install:focus {
+	text-decoration: none;
+	color: #FFFF00;
+}
+
+.table {
+	border: 0px !important;
+}
+
+.table td {
+	border-top: 0px !important;
+}
+
+.table-responsive img {
+	max-width: 100%;
+	border: 1px solid #DDD;
+	padding: 10px;
+}
+
+.account-wall {
+	background-color: #00F;
+}
+
+.navbar-thelobby {
+	background-color: #00F !important;
+	padding: 10px;
+	margin: auto;
+	text-align: center;
+}
